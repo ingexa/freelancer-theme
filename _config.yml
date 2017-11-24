@@ -42,11 +42,11 @@ social:
   - title: twitter
     url: https://twitter.com/ingexa
   - title: facebook
-    url:https://www.facebook.com/Ingexa/
+#    url:https://www.facebook.com/Ingexa/
 #  - title: stack-overflow
 #    url: http://stackoverflow.com/questions/tagged/jekyll
 #  - title: bitbucket
-    url: http://bitbucket.org/jekyll
+    url: http://facebook.com/ingexa
   - title: github
     url: https://github.com/ingexa
 
