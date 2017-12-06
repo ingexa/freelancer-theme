@@ -5,7 +5,7 @@ date: 2014-07-16
 img: circus.png
 alt: image-alt
 project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Diseño electrico residencial y comercial integrando tecnologia de automatizacion de espacios. Eficiencia y diseño.
+client: Diseño Electrico
+category: Integración
+description: Diseño electrico residencial y comercial integrando tecnología de automatización de espacios. Eficiencia y diseño.
 ---
